@@ -1,4 +1,5 @@
-# pandas basic Practice using Arsenal FC player information
+# Pandas Basic Practice 
+##using Arsenal FC player information
 -----------------------------------------------------------
 ## Table of Contents
 * [0. Web Crawling](https://github.com/js-yoo/pandas_basic_practice_ArsenalFC/blob/main/0_Web_Crawling.ipynb)
