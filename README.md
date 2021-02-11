@@ -1,5 +1,5 @@
 # Pandas Basic Practice 
-## using Arsenal FC player information
+## using [Arsenal FC](https://www.arsenal.com/)(footbal club in the PL) player information
 -----------------------------------------------------------
 ## Table of Contents
 * [0. Web Crawling](https://github.com/js-yoo/pandas_basic_practice_ArsenalFC/blob/main/0_Web_Crawling.ipynb)
